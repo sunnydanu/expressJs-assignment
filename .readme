@@ -1,0 +1,2 @@
+*Note
+        (windows only) For problem 4 : to use custom port use : set PORT=1337 && node app.js

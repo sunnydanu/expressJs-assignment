@@ -1,0 +1,1 @@
+require("express")().use("/",(req,res)=>{res.send("Hello World")}).listen(3000,()=>{console.log("server is listing on 3000")})
